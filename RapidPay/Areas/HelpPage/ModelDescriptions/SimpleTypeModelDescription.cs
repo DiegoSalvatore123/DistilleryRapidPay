@@ -1,0 +1,6 @@
+namespace RapidPay.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
